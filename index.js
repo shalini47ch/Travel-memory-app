@@ -16,7 +16,7 @@ app.use(cors());
 
 app.use("/posts",postRoutes);
 //now the next step is to connect to the database 
-// const CONNECTION_URL="mongodb+srv://memoryapp:abc1234@cluster0.p4nezsm.mongodb.net/?retryWrites=true&w=majority";
+
 app.get("/",(req,res)=>{
     res.send("Welcome to my travel app");
 });

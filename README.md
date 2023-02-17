@@ -12,6 +12,8 @@ The app supports various functionalities
 
 4.Counting the likes on the memory
 
+5.Used mongodb atlas for handling the database updation
+
 Achieved using mongodb,expressjs,nodejs,reactjs
 
 Deployed using vercel and netlify

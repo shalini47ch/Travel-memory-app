@@ -1,6 +1,11 @@
 # Travel-memory-app
 https://cerulean-toffee-9234f5.netlify.app/
 
+
+<img width="620" alt="image" src="https://github.com/shalini47ch/Travel-memory-app-BackendCode-/assets/60210475/ddaf6049-952c-46b0-92c1-1f463f2ac1eb">
+
+
+
 Deployed link of the app
 The app supports various functionalities
 

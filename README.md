@@ -6,7 +6,7 @@ https://cerulean-toffee-9234f5.netlify.app/
 
 
 
-Deployed link of the app
+
 The app supports various functionalities
 
 1.Creating a new travel memory.

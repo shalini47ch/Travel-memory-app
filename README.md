@@ -2,7 +2,16 @@
 https://cerulean-toffee-9234f5.netlify.app/
 
 
-<img width="620" alt="image" src="https://github.com/shalini47ch/Travel-memory-app-BackendCode-/assets/60210475/ddaf6049-952c-46b0-92c1-1f463f2ac1eb">
+
+
+Sequence Diagram
+![image](https://github.com/shalini47ch/Travel-memory-app-BackendCode-/assets/60210475/e15b716d-6e5f-4f46-b0f9-fb641f3bbb7c)
+
+<img width="364" alt="image" src="https://github.com/shalini47ch/Travel-memory-app-BackendCode-/assets/60210475/d2b870c4-59ce-444b-88c4-b1c078433e97">
+
+
+
+
 
 
 
